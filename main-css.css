@@ -11,18 +11,14 @@ body{background-image: url("brownbackgroundd.zip");
 	whidth:100px;
 	height:600px;
 	background-color:rgba(136,94,52,1.00)
-}
-
-#container{
-	width:1000px;
-	height:600px;
-	background-color:rgba(81,51,24,0.93)
-    margin:0 auto;}
+	margin:0 auto;}
 
 <header{
 	width:100%;
-	height:120px;
-	background-color:antiquewhite;}
+	hight:120px;
+	background-color:darkgrey
+}
+
 
 nav{
 	width:100%;
