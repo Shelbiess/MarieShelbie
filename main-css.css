@@ -8,6 +8,12 @@ body{background-image: url("brownbackgroundd.zip");
 	background-size: cover;}
 
 #container{
+	whidth:100px;
+	height:600px;
+	background-color:rgba(136,94,52,1.00)
+}
+
+#container{
 	width:1000px;
 	height:600px;
 	background-color:rgba(81,51,24,0.93)
