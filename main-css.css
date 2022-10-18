@@ -13,17 +13,12 @@ body{background-image: url("brownbackgroundd.zip");
 	background-color:rgba(136,94,52,1.00)
 	margin:0 auto;}
 
-<header{
+
+
+header{
 	width:100%;
 	hight:120px;
 	background-color:darkgrey;}
-<nav>
-  <a href="/html/">HTML</a> |
-  <a href="/css/">CSS</a> |
-  <a href="/js/">JavaScript</a> |
-  <a href="/python/">Python</a>
-</nav>
-
 
 
 nav{
@@ -31,7 +26,6 @@ nav{
 	height:50px;
 	background-color:beige;
 	margin-top:10px;}
-
 
 	
 	aside{
